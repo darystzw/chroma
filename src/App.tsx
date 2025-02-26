@@ -175,8 +175,8 @@ function App() {
             animate={{ scale: 1 }}
             transition={{ duration: 0.5, type: "spring" }}
           >
-            Hey Shylet Praise❤️, 
-                      💝💞
+            Hey Shylet Praise❤️, <br/>
+                      💝💞<br/>
             Tap Anywhere To Begin 💖
           </motion.div>
         </div>
