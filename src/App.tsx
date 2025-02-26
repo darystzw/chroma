@@ -155,7 +155,7 @@ function App() {
               transition={{ delay: 0.3, type: "spring" }}
               className="text-white text-4xl font-bold"
             >
-              Yayyy! I Love You❤️
+              Yayyy! You Love me too❤️
             </motion.h1>
             <img
               src="/character/yayyyy.png"
